@@ -1,0 +1,24 @@
+Dr. Anita Dixit Assistant Professor
+
+About
+Dr. Anita Dixit is working as Assistant Professor in the department of Information Science and Engineering since 2009. She has completed her Bachelor degree in computer science and engineering from Bangalore University, Masters Degree in computer science and engineering from VTU, Belagavi and Doctorate from JNTUA Anantapur , Andhra Pradesh. She has published over seven international journals. She has guided five PG projects and several UG projects. She has two patents to her credit.
+
+Qualifications: B.E., M. Tech, Ph D(CSE)
+
+Experience: 22 Years
+
+Area Of Expertise: Image Processing
+
+Publications:
+
+Sl. No.	Name of the journal	Paper Title	Year of Publication	Indexing
+1.	ICTACT Journal on Image and Video Processing.(IJIVP) VOLUME: 08, ISSUE: 04	CURVELET BASED SATELLITE IMAGE NATURAL RESOURCE CLASSIFICATION SYSTEM USING ELM	MAY 2018	UG C
+2.	International Journal of Advanced Research in Computer and Communication Engineering	Cluster Analysis of Satellite (LISS-III) Images of Earth surface	April 2016	Google Scholar
+3.	International Journal of Remote Sensing & Geoscience (IJRSG)	Classification Of Earth Surface Segments Using Cluster Analysis And Artificial Neural Network	May 2017	Google Scholar
+4.	International Journal of Applied Engineering Research(IJAER)	Texture Feature Based Satellite Image Classification Scheme Using SVM	July 2017	Scopus
+5.	International Journal of Research and Scientific Innovation (IJRSI)	Image Retrieval Using Color and Texture Features	Aug 2016	Google Scholar
+6.	International Journal of Computer Sciences and Engineering (IJCSE), Vol 6, Issue 7, pp 793-797	Breast Cancer Detection Using Neural Network	July 18	UGC Approved
+7.	ICTACT Journal on Image and Video Processing.	Ensemble Classifier based Multiclass Vegetation Classification System	NOV-2019	UGC Approved
+Phone Number: 9972 008 964
+
+Email: anitadixit@sdmcet.ac.in

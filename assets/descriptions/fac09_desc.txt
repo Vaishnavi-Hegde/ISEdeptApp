@@ -1,0 +1,24 @@
+Prof. Arati S. Nayak Assistant Professor
+
+About
+Prof. Arati S. Nayak is an Assistant Professor in the Department of Information Science and Engineering at SDM College of Engineering and Technology, Dharwad, Karnataka, India. She obtained her Bachelor of Engineering from Karnatak University, Dharwad and a Master’s degree from VTU, Belagavi. She has guided several UG and PG projects.
+
+Qualifications: B.E., M. Tech(CSE)
+
+Experience: 10 Years
+
+Area Of Expertise: Image Processing
+
+Publications:
+
+Sl. No.	Paper Title	Name of the journal	ISSN Number/ Volume/Issue/ DOI	Year of Publication
+1.	Effect of region filtering on the Performance of segmentation based CBIR system	ICSIP-2010 (IEEE Xplore)	DOI: 10.1109/ICSIP.2010.5697485	20 January 2011
+2.	Color and Texture Features for Graphical authentication	Conference proceedings – International Conference on Advanced Computing & Communication Technologies (ICACCT 2012)		3 November 2012
+3.	scheduling in multihop wireless networks to achieve optimal throughput	IJRASET	Volume 3, Issue VII	July 2015
+4.	Watermarking Technique for Tamper Detection of Cheque Image in CTS	International Journal on Recent and Innovation Trends in Computing and Communication (IJRITCC)	ISSN: 2321-8169 Volume: 5 Issue: 1	January 2017
+5 .	Plant Leaf Identification Using Shape Features	International journal of scientific progress and research (IJSPR)	ISSN: 2349-4689 Issue 158, volume 58, number 01,	April 2019
+6.	Bluetooth Technology -Architecture, Applications, and Issues: A Literature Survey	International Research Journal of Engineering and Technology (IRJET)	e-ISSN: 2395-0056, Volume: 07 Issue: 12, p-ISSN: 2395-0072	Dec 2020
+7.	Portable Bluetooth Microphone App	International Journal of Scientific Research in Engineering and Management (IJSREM)	Volume: 05 Issue: 06, ISSN: 2582-3930	June 2021
+Phone Number: 9886 197 841
+
+Email: aratinayak@sdmcet.ac.in

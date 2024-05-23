@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "586810221096",
+    "project_id": "eventnotification-dde69",
+    "storage_bucket": "eventnotification-dde69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586810221096:android:411f03055dfb54cf24cb1d",
+        "android_client_info": {
+          "package_name": "com.example.notificaiton"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAfc1KKSv5_oZl-mmwpH4kgjXDR0rPzQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586810221096:android:f17201aae8061adb24cb1d",
+        "android_client_info": {
+          "package_name": "com.example.notifiction"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAfc1KKSv5_oZl-mmwpH4kgjXDR0rPzQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

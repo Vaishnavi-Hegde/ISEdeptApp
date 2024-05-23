@@ -1,0 +1,35 @@
+Dr. Pushpalatha S. Nikkam Assistant Professor
+
+About
+Dr. Pushpalatha S. Nikkam an Assistant Professor in the Department of Information Science at SDM College of Engineering and Technology, Dharwad, Karnataka, India. She obtained her Bachelor of Engineering from VTU, Belagavi. She received her Master’s degree from VTU Belagavi. She completed her Doctoral degree from JNTUA, Andraprdesh State.
+
+Qualifications: B.E., M. Tech, Ph D(CSE)
+
+Experience: 15 Years
+
+Publications:
+
+International Journals Publications:
+
+A Key Point Selection Shape Technique for Content based Image Retrieval System, Published in International Journal of Computer Vision and Image Processing, volume 6, Issue 2,July-December 2016( indexed in ACM Digital Library)
+An Efficient Approach for Content-Based Image Retrieval Using Hierarchical Part-Template and Tree Modeling(communicated to IET–Journal of Image and Video Processing)
+Conference Publications:
+
+Survey: A Content Based Image Retrieval Using Shape Descriptor,2012 National Conference on Emerging Trends in Computer Science, Vasavi College of Engineering, Hyderabad, May 01-02 2012, Andrapradesh, India
+Comprehensive Analysis of Object Detection through Segmentation, 2014 Fifth International Conference on Signals and Image Processing, BNMIT, Bangalore, Jan 08-10 2014, Karnataka, India
+Content Based Image Retrieval System Using Shape Analysis, 2015 IEEE International Conference on Theoretical computing and Communication Technology, BIET, Davangere, Oct 29-31 2015, Karnataka, India
+Decomposition-Based Shape Template Matching for Content Based Image Retrieval System,2015 IEEE International Conference on Computational Intelligence and Computing Research,VCE,Madhurai,Dec 10-12, Tamilnadu, India
+Contour Shape Descriptor for 2D Image Retrieval, 2016 2nd International Joint Colloquiums on Computer Electronics Electrical Mechanical and Civil-CEMC, IDES, Mumbai, Sept 27-28,2016
+Phone Number: 9880 551 722
+
+Email: geetasrikant@sdmcet.ac.in
+
+Awards / Achievements:
+
+Best Paper, at IEEE International Conference at Madurai Dec 2015
+Anyother:
+
+Projects guided/guiding:
+Sl. No.	Courses	Project Guided / Guiding
+1.	PG	04
+2.	UG	2 / Year

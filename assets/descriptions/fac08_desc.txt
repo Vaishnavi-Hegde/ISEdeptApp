@@ -1,0 +1,19 @@
+Dr. Sachidanand S. Joshi Assistant Professor
+
+About
+Dr. Sachidanand S. Joshi is an Assistant Professor in the Department of Information Science at SDM College of Engineering and Technology, Dharwad,Karnataka, INDIA. He obtained his Bachelor of Engineering from VTU, Belagavi. He received his Master degree from VTU Belagavi. He is pursuing his Ph.D. from V.T.U., Belagavi-Karnataka, India.
+
+Qualifications: B.E., M. Tech, Ph D(CSE)
+
+Experience: 11 Years
+
+Publications:
+
+Sl. No.	Name of the journal	Paper Title	ISSN	Year
+1.	Indian Journal of Computer Science and Engineering (IJCSE)	CDLN – cluster distance based data forwarding and optimal leader election using fuzzy inference in wireless network	0976-5166	Vol. 12 No. 4 Jul-Aug 2021
+2.	International Journal of Computer Networks and Applications (IJCNA)	A Novel Golden Eagle Optimizer based Trusted Ad hoc On-Demand Distance Vector (GEO-TAODV) Routing Protocol	2395-0455	Volume 8, Issue 5, September – October (2021)
+3.	Lecture Notes in Networks and Systems	EERP: Energy-efficient routing protocol performance analysis of DSR and AODV for mobile Adhoc network	Book Chapter	2020, Vol -99, pp. Page No-13–20
+4.	Twelfth International Multi-Conference on Information Processing-2016 (IMCIP-2016)	Communication Framework for Jointly Addressing Issues of Routing Overhead and Energy Drainage in MANET	Procedia Computer Science	Vol 89 (2016), Page no- 57 – 63
+Phone Number: 9880 417 014
+
+Email: sachinjoshi055@gmail.com

@@ -1,0 +1,28 @@
+Prof. Varsha S Jadhav Assistant Professor
+
+About
+Prof. Varsha S Jadhav an Assistant Professor in the Department. She obtained her Bachelor of Engineering and her Master degree from VTU Belagavi. Currently she is pursuing Ph.D from V.T.U., Belagaum. Guided several UG and PG Students.
+
+Qualifications: B.E., M. Tech
+
+Experience: 16 Years
+
+Area Of Expertise:
+
+Image processing, Storage area networks Automatic Image Annotations, Operating system, File structures, Algorithms, Object Oriented modeling & Design, Unix, Linux, Cyber security systems, System programming. etc
+Publications:
+
+National Conferences: 1
+International Conference: 2
+Publications:
+
+Sl. No.	Paper Title	Event Details	Year
+1.	Contract Signing Protocol Based on RSA Signature	International Journal for Research in Applied Science & Engineering Technology (IJRASET) Volume 3 Issue VII, Page No. : 613-616.	July 2015
+2.	Congestion Less Decentralized Secure Routing in multi HOP Wireless Adhoc Networks.	“International Journal for Science and Advance Research In Technology, 3(8), ID: IJSARTV3I817333	2017
+3.	Automated annotation system for natural images using Image Processing Techniques	National Symposium on Information Technology (NSIT- 2017) held at SDM College of Engineering & Technology Dharwad.	8th March, 2017
+4.	Text Extraction In Natural Images And Converting To Speech	International journal for science and advance research in technology Volume 5,Issue 5.	May 2019
+5.	A Survey on Automated Hand Fracture Detector	International Research Journal of Engineering and Technology Volume: 07 Issue: 12	Dec 2020
+Awards / Achievements:
+
+Reviewer for American Journal of Engineering and Technology Management.
+Anyother:
